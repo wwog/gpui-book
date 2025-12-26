@@ -1,0 +1,14 @@
+.architecture-diagram {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  overflow-x: auto;
+}
+
+.architecture-diagram svg {
+  max-width: 100%;
+  height: auto;
+}
+
